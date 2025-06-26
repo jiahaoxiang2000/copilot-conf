@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# But not these folders
+!chatmodes/
+!instructions/
+!prompts/
+
+# Only track .md files in those folders
+!chatmodes/*.md
+!instructions/*.md
+!prompts/*.md
+
+# Never track anything else
+!.gitignore
+!readme.md
