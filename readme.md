@@ -1,5 +1,7 @@
 # GitHub Copilot Customization in VS Code
 
+> NOTE: for sync all the configure on different project, the Config is sync by the **[Vscode Config](https://github.com/jiahaoxiang2000/vscode-config)** manitian.
+
 This workspace supports customizing GitHub Copilot's AI responses in Visual Studio Code using the following methods:
 
 ## 1. Custom Instructions
